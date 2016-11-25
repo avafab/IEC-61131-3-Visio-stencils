@@ -1,2 +1,2 @@
-# SFC-Visio-stencil-pack
-Vision stencils pack for Sequential Function Charts design
+# IEC-61131-3-Visio-stencils
+Vision stencils for Programmable Logic Controllers (PLCs) software design
